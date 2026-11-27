@@ -63,6 +63,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/dork7/dork7/output/snake.svg" alt="Snake animation" />
-
 ###
