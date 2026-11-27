@@ -1,4 +1,4 @@
-# Hi, I'm <Hamza Mehmood> 👋
+# Hi, I'm Hamza Mehmood 👋
 
 ### A "Software Engineer" (the quotes are doing a lot of work here)
 
@@ -44,6 +44,24 @@ Times I actually did:               0
 
 ---
 
+## 🔥 Current Streaks
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=<YOUR_GITHUB_USERNAME>&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+```
+🔥 GitHub contribution streak:        impressive (Claude never takes a day off)
+🤖 Days in a row I asked Claude:      every single one since I found out it exists
+💀 Days in a row I coded unassisted:  0 (personal best: also 0)
+😴 Longest streak without AI:         that one time the Wi-Fi went down
+📉 Streak of understanding my code:   broken. Long ago.
+```
+
+> *Yes, that green square is real. No, I won't tell you who made it green.*
+
+---
+
 ## 🏆 Achievements
 
 - 🥇 **Prompt Engineer of the Year** (self-awarded, Claude wrote the certificate)
@@ -74,14 +92,6 @@ Times I actually did:               0
 2. If it works, I wrote it. If it breaks, Claude wrote it.
 3. "Senior Developer" just means you've been delegating for longer.
 4. Stack Overflow walked so Claude could run (and do my job).
-
----
-
-## 📫 How to Reach Me
-
-- 📧 Email: Claude will reply on my behalf
-- 💼 LinkedIn: Claude wrote my headline too
-- 🐦 Twitter/X: I tweet the screenshots of what Claude made
 
 ---
 
